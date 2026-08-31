@@ -1,0 +1,19 @@
+{
+  "acc_with_semantics": 0.415,
+  "acc_without_semantics": 0.175,
+  "chance_level": 0.2,
+  "per_class_with_semantics": {
+    "polar+bear": 0.775,
+    "killer+whale": 0.0,
+    "walrus": 0.7,
+    "seal": 0.025,
+    "dolphin": 0.575
+  },
+  "per_class_without_semantics": {
+    "polar+bear": 0.0,
+    "killer+whale": 0.875,
+    "walrus": 0.0,
+    "seal": 0.0,
+    "dolphin": 0.0
+  }
+}
